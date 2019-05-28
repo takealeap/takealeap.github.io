@@ -27,6 +27,38 @@ These are few of the openings with us.
   </div>
   </div>
 </a>
+<a href="https://angel.co/company/leap-labs-1/jobs/562155-react-native-developer">
+ <div class="card card--clickable">
+  <div class="card__content">
+    <div class="card__header">
+      <h4>React Native Developer</h4>
+    </div>
+    <p>We are looking for a React Native developer to take the lead in building our cross-platform app.
+    Check out the complete description here. </p>
+  </div>
+  </div>
+</a>
+
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
+      <a href="{{ site.baseurl }}{{ post.url }}">
+         <div class="card card--clickable">
+             <div class="card__content">
+                   <div class="card__header">
+                       <h4>{{ post.title }}</h4>
+                    </div>
+
+              <div class="entry">
+                      {{ post.excerpt }}
+              </div>
+              <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+</div>
+</div>
+</a>
+    </article>
+  {% endfor %}
+  </div>
 
 
 <p>Besides the above mentioned full-time positions we are also open to having interns who are willing to stay with us for 3-6 months.</p>
