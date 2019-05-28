@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: Our current pilot
 mathjax: true
 excerpt_separator: <!--more-->
