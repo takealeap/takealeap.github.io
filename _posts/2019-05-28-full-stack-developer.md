@@ -5,8 +5,6 @@ tags: job-openings
 excerpt: We are looking for a React Native developer to take the lead in building our cross-platform app. The person will work closely with our backend developers and UX designer to create high quality user experience on the app.
 ---
 
-<h1> Full stack developers </h1>
-
 <h3> About us </h3>
 
 <p> Leap is an early stage for-profit social startup that aims to accelerate world’s transition to sustainable consumption. We work at the intersection of technology, environmental psychology and data science to promote consumption of low resource products and food. We are building a web+mobile marketplace that will provide consumers clear information about the social-environmental impact of products and help them choose the better alternative. </p>
@@ -42,7 +40,6 @@ You will get an opportunity to take ownership of the product and create meaningf
 <p> We will take good care during your stay in Auroville. You’ll live in a furnished, peaceful accommodation with a beautiful garden, get fresh organic food and an e-bike to move around. We have swimming pool, sports facilities, beautiful beaches and forests in our vicinity. You’ll get opportunity to explore vibrant life in Auroville, pursue your other interests and develop new ones. </p>
 <p>If you are not willing to shift to Auroville, then you can also work remotely. No issues at all! </p>
 
-<br>
 <p> If you are willing to take the leap with us, then drop us a mail at <b> hi@leaplabs.io </b>. Please include the following information in the mail:
 <ul>
 <li> Links to the past projects you have worked on or your Github profile </li>
