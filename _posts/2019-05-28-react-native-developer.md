@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Full stack developer
+title: React Native Developer
 tags: job-openings
-excerpt: We are looking for a full stack developer to take ownership of the backend work and support the frontend team as per the need. The person will work closely with our front end developer, app developer and UX designer to create high quality experience on web + mobile platforms.
+excerpt: We are looking for a React Native developer to take the lead in building our cross-platform app. The person will work closely with our backend developers and UX designer to create high quality user experience on the app.
 ---
 
 <h3> About us </h3>
@@ -15,18 +15,16 @@ excerpt: We are looking for a full stack developer to take ownership of the back
 
 <h3> Job Description </h3>
 
-We are looking for a full stack developer to take ownership of the backend work and support the frontend team as per the need. The person will work closely with our front end developer, app developer and UX designer to create high quality experience on web + mobile platforms. He/She will take responsibility of the entire development cycle - creating architecture,  translating design into code, testing, deployment, optimising the code for the performance and integrating user feedback.
+We are looking for a React Native developer to take the lead in building our cross-platform app. The person will work closely with our backend developers and UX designer to create high quality user experience on the app. They will lead to the entire app-development cycle - translating designs to code, putting it into production, optimising the code for the performance & usability and integrating user feedback.
 
 
 <h3>Requirements</h3>
 
 <ul>
-<li> Strong expertise in Django + Python and knowledge of Javascript, HTML and CSS </li>
-<li> Solid understanding of principles of web-development, databases and RESTful APIs </li>
-<li> Previous experience in developing a web product from scratch </li>
-<li> Familiarity with React is a big plus </li>
-<li> Willingness to take on a leadership role and mentor the product development team </li>
-<li> Proactive approach to learning, good communication and openness to feedback </li>
+<li> Strong grasp on JS and React Native’s core principles </li>
+<li> Previous experience in developing an app from scratch </li>
+<li> Willingness to grow into a leadership role and build the mobile development team </li>
+<li> Proactive approach to learning, good communication and openness to feedback</li>
 <li> Flexible to take on varied roles in the startup as per the needs </li>
 <li> Believer in the ability of a small group of individuals to tackle the biggest challenges </li>
 
