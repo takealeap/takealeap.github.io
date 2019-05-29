@@ -9,11 +9,11 @@ header:
       en-AU   : *EN
     url: /joinus.html
 
-  #
-  # - titles:
-  #     en      : &EN      FAQ
-  #     en-GB   : *EN
-  #     en-US   : *EN
-  #     en-CA   : *EN
-  #     en-AU   : *EN
-  #   url: /faq.html
+
+  - titles:
+      en      : &EN      FAQ
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+    url: /faq.html
