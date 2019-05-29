@@ -21,8 +21,7 @@ highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "t
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
 title   : Leap
-description: > # this means to ignore newlines until "Language & timezone"
-Leap is an early stage for-profit social enterprise that aims to accelerate world’s transition to sustainable consumption. We are building a web+mobile marketplace that will demystify social, environmental and health impact of everyday products and help us in making a better, more informed choice.
+description: > Leap is an early stage for-profit social enterprise that aims to accelerate world’s transition to sustainable consumption. We are building a web+mobile marketplace that will demystify social, environmental and health impact of everyday products and help us in making a better, more informed choice.
 
 
 ## => Language and Timezone
