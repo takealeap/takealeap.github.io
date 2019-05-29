@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Full stack developer
-tags: job-openings
+tags: job-openings jobs
 excerpt: We are looking for a full stack developer to take ownership of the backend work and support the frontend team as per the need. The person will work closely with our front end developer, app developer and UX designer to create high quality experience on web + mobile platforms.
 ---
 

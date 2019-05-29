@@ -1,7 +1,7 @@
 ---
 layout: article
 title: React Native Developer
-tags: job-openings
+tags: job-openings jobs
 excerpt: We are looking for a React Native developer to take the lead in building our cross-platform app. The person will work closely with our backend developers and UX designer to create high quality user experience on the app.
 ---
 
