@@ -22,7 +22,7 @@ url     : # the base hostname & protocol for your site e.g. https://www.someone.
 baseurl : # does not include hostname
 title   : Leap
 description: > # this means to ignore newlines until "Language & timezone"
-  Promoting sustainable consumption
+Leap is an early stage for-profit social enterprise that aims to accelerate world’s transition to sustainable consumption. We are building a web+mobile marketplace that will demystify social, environmental and health impact of everyday products and help us in making a better, more informed choice.
 
 
 ## => Language and Timezone
@@ -212,7 +212,7 @@ defaults:
       aside:
         toc: true
       show_edit_on_github: false
-      show_subscribe: fale
+      show_subscribe: false
       pageview: true
 
 
