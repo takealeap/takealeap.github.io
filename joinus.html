@@ -4,11 +4,12 @@ titles: Join us
 ---
 We are looking for people who are passionate about leveraging technology to drive sustainable consumption.
 
-These are few of the openings with us.
+Here are some of our current openings:
+<br>
 
 <div class="posts">
   {% for post in site.posts %}
-  {% if post.tags contains job-openings%}
+  {% if post.tile contains developer%}
     <article class="post">
       <a href="{{ site.baseurl }}{{ post.url }}">
          <div class="card card--clickable">
@@ -32,4 +33,4 @@ These are few of the openings with us.
 
 <p>Besides the above mentioned full-time positions we are also open to having interns who are willing to stay with us for 3-6 months.</p>
 
-<p>Please write to us at hi@leaplabs.io if you wanted to explore other roles and opportunities. </p>
+<p>Please write to us at hi@leaplabs.io if you wanted to explore other roles and opportunities.</p>
