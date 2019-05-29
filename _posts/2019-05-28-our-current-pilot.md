@@ -3,7 +3,7 @@ layout: article
 title: Our current pilot
 mathjax: true
 excerpt_separator: <!--more-->
-
+permalink : /current-pilot/
 ---
 
 For the last 6 months, we have been running big and small pilots in Auroville, a community of 2900 residents in Tamil Nadu, India with support from the local partners. We are learning from the successes and failures of our pilots and have done multiple iterations in a short period of time. We have started by focusing on the environmental impact of our consumption. Here is a snapshot of our journey:
