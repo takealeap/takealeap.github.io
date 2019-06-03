@@ -9,7 +9,7 @@ Here are some of our current openings:
 <br>
 <div class="posts">
   {% for post in site.posts %}
-  {% if post.title contains 'Developer'%}
+  {% if post.tag contains 'jobs'%}
     <article class="post">
       <a href="{{ site.baseurl }}{{ post.url }}">
          <div class="card">
