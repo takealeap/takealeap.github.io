@@ -25,6 +25,7 @@ We are looking for a lead to champion the voice of our community. Our community 
 <li> Someone with a hands-on attitude and who can take ownership   </li>
 <li> Flexible to take on varied roles in the startup as per the needs </li>
 <li> Proactive approach to learning </li>
+<li> Deep interest in the sustainability space and passion to contribute to solving the climate crisis is a must</li>
 <li> Prior experience in design research would be a plus </li>
 <li> Believer in the ability of a small group of individuals to tackle the biggest challenges </li>
 
@@ -39,7 +40,7 @@ You will get an opportunity to build a community of sustainable producers and co
 
 <p> We will take good care during your stay in Auroville. You’ll live in a furnished, peaceful accommodation with a beautiful garden, get fresh organic food and an e-bike to move around. We have swimming pool, sports facilities, beautiful beaches and forests in our vicinity. You’ll get opportunity to explore vibrant life in Auroville, pursue your other interests and develop new ones. </p>
 
-<b>This role will require you to spend atleast about 3-6 months in Auroville.<b> It is hard to understand the needs of the community remotely. 
+<b>This role will require you to spend atleast about 3-6 months in Auroville.<b> It is hard to understand the needs of the community remotely.
 
 <p> If you are willing to take the leap with us, then drop us a mail at <b> hi@leaplabs.io </b>. Please include the following information in the mail:
 <ul>
