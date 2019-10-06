@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Sign up
-mode = immersive
+mode: immersive
 header:
   theme: dark
 article_header:
